@@ -4,6 +4,9 @@ installation method
 
 
 git clone https://github.com/DedsecLBPz1/IP-Grabber.git
+
 cd IP-Grabber
+
 ./install.sh
+
 ipgrab
