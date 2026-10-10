@@ -1,7 +1,9 @@
 # IP-Grabber
 an ip grabber/tracker made by Karim Mantash (DedSecLB)
 installation method
-git clone 
+
+
+git clone https://github.com/DedsecLBPz1/IP-Grabber.git
 cd IP-Grabber
 ./install.sh
 ipgrab
